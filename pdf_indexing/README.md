@@ -35,9 +35,10 @@ pdf-index-generator/
 ### 📦 Install Dependencies
 Run the following command in your terminal:
 
-```python
+```bash
 pip install PyPDF2 reportlab
 ```
+
 These libraries are required for:
 
 PyPDF2: Reading, merging, and bookmarking PDFs
